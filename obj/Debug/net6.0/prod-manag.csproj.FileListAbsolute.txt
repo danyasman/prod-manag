@@ -1,0 +1,15 @@
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\prod-manag\bin\Debug\net6.0\prod-manag.exe
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\prod-manag\bin\Debug\net6.0\prod-manag.deps.json
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\prod-manag\bin\Debug\net6.0\prod-manag.runtimeconfig.json
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\prod-manag\bin\Debug\net6.0\prod-manag.dll
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\prod-manag\bin\Debug\net6.0\prod-manag.pdb
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\prod-manag\obj\Debug\net6.0\prod-manag.csproj.AssemblyReference.cache
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\prod-manag\obj\Debug\net6.0\prod-manag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\prod-manag\obj\Debug\net6.0\prod-manag.AssemblyInfoInputs.cache
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\prod-manag\obj\Debug\net6.0\prod-manag.AssemblyInfo.cs
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\prod-manag\obj\Debug\net6.0\prod-manag.csproj.CoreCompileInputs.cache
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\prod-manag\obj\Debug\net6.0\prod-manag.dll
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\prod-manag\obj\Debug\net6.0\refint\prod-manag.dll
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\prod-manag\obj\Debug\net6.0\prod-manag.pdb
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\prod-manag\obj\Debug\net6.0\prod-manag.genruntimeconfig.cache
+C:\Users\danya\OneDrive\Desktop\Обучение\Git\prod-manag\obj\Debug\net6.0\ref\prod-manag.dll
